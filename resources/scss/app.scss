@@ -47,6 +47,9 @@ section.hero{
         color: $pure;
         
     }
+   &:focus{
+    outline: none;
+   }
  }
 
  .btn-primary{
